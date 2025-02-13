@@ -106,8 +106,8 @@ serve(async (req) => {
   <body>
     <p>Dear Client,</p>
 
-    <p>This is a reminder that your contract is approaching its end date.</p>
-
+    <p>This is a reminder that your contract with <strong>DSPA(R) LTD</strong> is approaching its end date.</p>
+>
     <table border="1" cellpadding="5">
       <tr>
         <th>Contract Details:</th>
